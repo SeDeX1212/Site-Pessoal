@@ -1,41 +1,106 @@
 # Site Pessoal - Portfólio Paulo J L
 
-# 📋 Sobre o Projeto
-Site pessoal e portfólio profissional desenvolvido para apresentar minhas habilidades como Programador Back-end, Ilustrador 2D e Game Developer. O site apresenta uma interface moderna e responsiva, destacando meus projetos em pixel art e desenvolvimento de jogos.
+## 📋 Sobre o Projeto
 
-# 🎯 Objetivos
-Apresentar minhas habilidades técnicas e artísticas
+Site pessoal e portfólio profissional desenvolvido para apresentar minhas habilidades como **Programador Back-end**, **Ilustrador 2D** e **Game Developer**. O site apresenta uma interface moderna e responsiva, destacando meus projetos em pixel art e desenvolvimento de jogos.
 
-Exibir portfólio de projetos em pixel art e desenvolvimento de games
+### 🎯 Objetivos
 
-Fornecer informações de contato profissional
+- Apresentar minhas habilidades técnicas e artísticas
+- Exibir portfólio de projetos em pixel art e desenvolvimento de games
+- Fornecer informações de contato profissional
+- Demonstrar competências em desenvolvimento web front-end e back-end
 
-Demonstrar competências em desenvolvimento web front-end e back-end
+## 🚀 Tecnologias Utilizadas
 
-# 🚀 Tecnologias Utilizadas
-## Front-end
-HTML5 - Estrutura semântica
+### Front-end
+- **HTML5** - Estrutura semântica
+- **CSS3** - Estilização avançada
+- **Bootstrap 5** - Framework CSS responsivo
+- **JavaScript** - Interatividade e animações
 
-CSS3 - Estilização avançada
+### Bibliotecas e Plugins
+- **AOS** - Animações on scroll
+- **Typed.js** - Efeito de digitação
+- **Glightbox** - Galeria de imagens
+- **Swiper** - Carrosséis interativos
+- **PureCounter** - Contadores animados
+- **Isotope** - Filtro de portfólio
 
-Bootstrap 5 - Framework CSS responsivo
+### Back-end
+- **PHP** - Processamento de formulários
+- **Banco de Dados** - MySQL (implícito)
 
-JavaScript - Interatividade e animações
+## 📁 Estrutura do Projeto
 
-# Bibliotecas e Plugins
-AOS - Animações on scroll
+```
+Site-Pessoal/
+│
+├── assets/
+│   ├── css/
+│   │   └── main.css
+│   ├── img/
+│   │   ├── Perfil.png
+│   │   ├── unspoken.gif
+│   │   └── portfolio/
+│   │       ├── bellatrix.gif
+│   │       ├── foice.gif
+│   │       ├── virya.png
+│   │       ├── unspoken_godot.png
+│   │       └── Viral.png
+│   └── vendor/
+│       ├── bootstrap/
+│       ├── aos/
+│       ├── glightbox/
+│       ├── swiper/
+│       └── ...
+│
+├── forms/
+│   └── contact.php
+│
+├── index.html
+└── README.md
+```
 
-Typed.js - Efeito de digitação
+## 🎨 Seções do Site
 
-Glightbox - Galeria de imagens
+### 1. **Hero Section**
+- Apresentação pessoal com efeito de digitação
+- Animação em GIF demonstrando habilidades em pixel art
 
-Swiper - Carrosséis interativos
+### 2. **Sobre Mim**
+- Informações pessoais e profissionais
+- Formação acadêmica (Fatec Ogari de Castro Pacheco)
+- Experiência profissional atual (Cristalia)
 
-PureCounter - Contadores animados
+### 3. **Habilidades Técnicas**
+- Progress bars animadas mostrando proficiência em:
+  - HTML/CSS (70%)
+  - JavaScript (25%)
+  - PHP (80%)
+  - Banco de Dados (100%)
+  - Unity (80%)
 
-Isotope - Filtro de portfólio
+### 4. **Resumo Profissional**
+- Educação: Etec João Maria Stevanatto (2020-2022)
+- Experiência: Freelancer (2022) e Cristalia (2024-atualmente)
 
-Back-end
-PHP - Processamento de formulários
+### 5. **Portfólio**
+- Galeria de projetos em pixel art
+- Desenvolvimento de jogos
+- Protótipos em Godot e Unity
+- Projeto de TCC (Viral)
 
-Banco de Dados - MySQL (implícito)
+### 6. **Contato**
+- Formulário de contato funcional
+- Informações de localização
+- Links para redes sociais
+  
+## 📞 Contato
+
+**Paulo Jorge Lemos Silva**
+- 📧 Email: paulojorgelemosilva@gmail.com
+- 📞 Telefone: (19) 99702-3820
+- 📍 Localização: Itapira - São Paulo
+
+**Desenvolvido com sangue suor e lagrimas por Paulo J L**

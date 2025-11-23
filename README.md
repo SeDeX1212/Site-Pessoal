@@ -1,9 +1,4 @@
 # Site Pessoal - Portfólio Paulo J L
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 
 # 📋 Sobre o Projeto
 Site pessoal e portfólio profissional desenvolvido para apresentar minhas habilidades como Programador Back-end, Ilustrador 2D e Game Developer. O site apresenta uma interface moderna e responsiva, destacando meus projetos em pixel art e desenvolvimento de jogos.

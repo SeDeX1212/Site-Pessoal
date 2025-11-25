@@ -4,14 +4,14 @@
   --nav-font: "Poppins", sans-serif;
   --background-color: #ffffff;
   --default-color: #272829;
-  --heading-color: #050d18;
-  --accent-color: #F62681;
+  --heading-color: #1a1a1a;
+  --accent-color: #A4133C;
   --surface-color: #ffffff;
   --contrast-color: #ffffff;
   --nav-color: #a8a9b4;
   --nav-hover-color: #ffffff;
-  --nav-mobile-background-color: #040b14;
-  --nav-dropdown-background-color: #040b14;
+  --nav-mobile-background-color: #1A1A1A;
+  --nav-dropdown-background-color: #1a1a1a;
   --nav-dropdown-color: #a8a9b4;
   --nav-dropdown-hover-color: #ffffff;
   scroll-behavior: smooth;

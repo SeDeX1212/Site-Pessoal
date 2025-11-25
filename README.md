@@ -28,39 +28,7 @@ Site pessoal e portfólio profissional desenvolvido para apresentar minhas habil
 - **Isotope** - Filtro de portfólio
 
 ### Back-end
-- **PHP** - Processamento de formulários
-- **Banco de Dados** - MySQL (implícito)
-
-## 📁 Estrutura do Projeto
-
-```
-Site-Pessoal/
-│
-├── assets/
-│   ├── css/
-│   │   └── main.css
-│   ├── img/
-│   │   ├── Perfil.png
-│   │   ├── unspoken.gif
-│   │   └── portfolio/
-│   │       ├── bellatrix.gif
-│   │       ├── foice.gif
-│   │       ├── virya.png
-│   │       ├── unspoken_godot.png
-│   │       └── Viral.png
-│   └── vendor/
-│       ├── bootstrap/
-│       ├── aos/
-│       ├── glightbox/
-│       ├── swiper/
-│       └── ...
-│
-├── forms/
-│   └── contact.php
-│
-├── index.html
-└── README.md
-```
+- **PHP** - Processamento de formulários (Simulação)
 
 ## 🎨 Seções do Site
 
